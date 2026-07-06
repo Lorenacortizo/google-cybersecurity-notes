@@ -10,7 +10,7 @@ This repository is part of my learning process, where I document key concepts,  
 ## 🧠 Contents
 
 - Module 1: Cybersecurity Fundamentals
-- Module 2: 
+- Module 2: Cybersecurity Attacks & Threats
 
 ## 🎯 Objective
 
