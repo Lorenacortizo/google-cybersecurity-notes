@@ -38,7 +38,7 @@ An organization's ability to manage and defend its critical assets and data, and
 ---
 
 ### ⚠️ Threat
-Any circumstance or event that colud negatively impact systems, data, or resources
+Any circumstance or event that could negatively impact systems, data, or resources
 
 ---
 
