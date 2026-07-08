@@ -1,4 +1,4 @@
-# 🛡️ Module 3 – Terms and Definitions (Course 1)
+# 🛡️ Module 3 – Terms and Definitions
 
 ## 🧠 Core Security Concepts
 
